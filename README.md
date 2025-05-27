@@ -149,7 +149,7 @@ graph TD
 ### ⚡ **One-Line Installation**
 
 ```bash
-git clone https://github.com/yourusername/admin-panel-finder.git && cd admin-panel-finder && pip install -r requirements.txt
+git clone https://github.com/hiddenghost9737/admin-panel-finder.git && cd admin-panel-finder && pip install -r requirements.txt
 ```
 
 ### 🎯 **Basic Usage**
@@ -224,7 +224,7 @@ Request Rate:      21.9 req/sec
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/admin-panel-finder.git
+git clone https://github.com/hiddenghost9737/admin-panel-finder.git
 cd admin-panel-finder
 
 # Install dependencies
@@ -260,7 +260,7 @@ docker run -v $(pwd)/results:/app/results admin-panel-finder python admin_finder
 
 ```bash
 # Clone and setup development environment
-git clone https://github.com/yourusername/admin-panel-finder.git
+https://github.com/hiddenghost9737/admin-panel-finder.git
 cd admin-panel-finder
 
 # Create virtual environment
@@ -639,7 +639,7 @@ DELAY = 0.5
 
 ```bash
 # 1. Fork the repository
-git fork https://github.com/yourusername/admin-panel-finder.git
+git clone https://github.com/hiddenghost9737/admin-panel-finder.git
 
 # 2. Create feature branch
 git checkout -b feature/awesome-new-feature
@@ -746,7 +746,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ### 🚀 **Ready to Discover Admin Panels?**
 
 ```bash
-git clone https://github.com/yourusername/admin-panel-finder.git
+git clone https://github.com/hiddenghost9737/admin-panel-finder.git
 cd admin-panel-finder
 pip install -r requirements.txt
 python admin_finder.py your-target.com
